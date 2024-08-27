@@ -1,7 +1,7 @@
 import { View, Text, SafeAreaView } from "react-native";
 import styles from "./styles";
 import React, { useState } from "react";
-import { ButtonRow } from "../../components";
+import ButtonRow from "../../components/ButtonRow";
 
 export default function Onze() {
   return (

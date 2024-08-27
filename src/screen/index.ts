@@ -10,6 +10,9 @@ import Seis from "./Seis";
 import Sete from "./Sete";
 import Tres from "./Tres";
 import Um from "./Um";
+import Um_aula2 from "./Um_aula2";
+
+
 
 export {
   Home,
@@ -24,4 +27,5 @@ export {
   Nove,
   Dez,
   Onze,
+  Um_aula2,  
 };

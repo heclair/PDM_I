@@ -1,3 +1,4 @@
+import ButtonNav from "./ButtonNav";
 import ButtonRow from "./ButtonRow";
 
-export { ButtonRow };
+export { ButtonRow, ButtonNav };
